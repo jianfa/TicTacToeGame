@@ -1,4 +1,5 @@
 # TicTacToeGame  
+## Created by Jianfa Chen on August 3, 2016  
 
 The most common board size in two-dimensional Tic-Tac-Toe is 3x3, meaning a square grid with three rows and three columns.   
 Board sizes larger than 3x3 are also possible: 4x4, 5x5, etc.  
@@ -23,66 +24,66 @@ Welcome to Tic-Tac-Toe!
  +-+-+-+  
 3| | | |  
  +-+-+-+  
-What is your move? Please type a row number
-from 1 to 3 and a column number from 1 to 3.
-1 1
-  1 2 3
- +-+-+-+
-1|X| | |
- +-+-+-+
-2| | | |
- +-+-+-+
-3| | | |
- +-+-+-+
-My move is row 1 column 3.
-  1 2 3
- +-+-+-+
-1|X| |O|
- +-+-+-+
-2| | | |
- +-+-+-+
-3| | | |
- +-+-+-+
-What is your move? Please type a row number
-from 1 to 3 and a column number from 1 to 3.
-3 3
-  1 2 3
- +-+-+-+
-1|X| |O|
- +-+-+-+
-2| | | |
- +-+-+-+
-3| | |X|
- +-+-+-+
+What is your move? Please type a row number  
+from 1 to 3 and a column number from 1 to 3.  
+1 1  
+  1 2 3  
+ +-+-+-+  
+1|X| | |  
+ +-+-+-+  
+2| | | |  
+ +-+-+-+  
+3| | | |  
+ +-+-+-+  
+My move is row 1 column 3.  
+  1 2 3  
+ +-+-+-+  
+1|X| |O|  
+ +-+-+-+  
+2| | | |  
+ +-+-+-+  
+3| | | |  
+ +-+-+-+  
+What is your move? Please type a row number  
+from 1 to 3 and a column number from 1 to 3.  
+3 3  
+  1 2 3  
+ +-+-+-+  
+1|X| |O|  
+ +-+-+-+  
+2| | | |  
+ +-+-+-+  
+3| | |X|  
+ +-+-+-+  
+  
+My move is row 3 column 2.  
+  1 2 3  
+ +-+-+-+  
+1|X| |O|  
+ +-+-+-+  
+2| | | |  
+ +-+-+-+  
+3| |O|X|  
+ +-+-+-+  
+  
+What is your move? Please type a row number  
+from 1 to 3 and a column number from 1 to 3.  
+2 2  
+  1 2 3  
+ +-+-+-+  
+1|X| |O|  
+ +-+-+-+  
+2| |X| |  
+ +-+-+-+  
+3| |O|X|  
+ +-+-+-+  
+  
+Congratulations! You win!  
+Thank you for playing Tic-Tac-Toe.  
 
-My move is row 3 column 2.
-  1 2 3
- +-+-+-+
-1|X| |O|
- +-+-+-+
-2| | | |
- +-+-+-+
-3| |O|X|
- +-+-+-+
+  
 
-What is your move? Please type a row number
-from 1 to 3 and a column number from 1 to 3.
-2 2
-  1 2 3
- +-+-+-+
-1|X| |O|
- +-+-+-+
-2| |X| |
- +-+-+-+
-3| |O|X|
- +-+-+-+
-
-Congratulations! You win!
-Thank you for playing Tic-Tac-Toe.
-
-
-
- Created by Jianfa Chen on August 3, 2016  
+--------------------------------------- 
  Use the following commands to compile:  
  c++ main.cpp -o a.out  
  or  
